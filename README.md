@@ -4,6 +4,8 @@ GoalSync is a comprehensive, premium-designed MERN stack web portal for sports c
 
 ---
 
+===========================================Work in Progress====================================================
+
 ## 🌟 Key Features
 
 1. **User Authentication**
